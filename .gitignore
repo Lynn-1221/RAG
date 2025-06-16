@@ -3,3 +3,5 @@ api-key.py
 ai agents/
 *.mp4
 *.srt
+__pycache__/
+.ragatouille/
