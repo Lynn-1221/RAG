@@ -1,0 +1,5 @@
+api-key.py
+.env
+ai agents/
+*.mp4
+*.srt
